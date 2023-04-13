@@ -30,11 +30,11 @@
             </objects>
             <point key="canvasLocation" x="-787" y="-139"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--title-->
         <scene sceneID="tFf-m9-MFU">
             <objects>
                 <navigationController id="8sQ-ba-Mwa" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" selectedImage="plus" catalog="system" id="dk1-L6-myH"/>
+                    <tabBarItem key="tabBarItem" title="title" selectedImage="plus" catalog="system" id="dk1-L6-myH"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="OLj-RH-Oed">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -47,11 +47,11 @@
             </objects>
             <point key="canvasLocation" x="-787" y="558"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--title-->
         <scene sceneID="148-N9-9x1">
             <objects>
                 <navigationController id="Hd9-uR-RpP" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" selectedImage="house" catalog="system" id="bgZ-mO-Hi5"/>
+                    <tabBarItem key="tabBarItem" title="title" selectedImage="house" catalog="system" id="bgZ-mO-Hi5"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="JEL-LG-m2w">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -144,11 +144,11 @@
             </objects>
             <point key="canvasLocation" x="-1553" y="1242"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--title-->
         <scene sceneID="h0s-aT-SbP">
             <objects>
                 <navigationController id="s5O-zI-iId" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" selectedImage="person" catalog="system" id="EqU-GC-dGL"/>
+                    <tabBarItem key="tabBarItem" title="title" selectedImage="person" catalog="system" id="EqU-GC-dGL"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ujA-Wo-emA">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -161,11 +161,11 @@
             </objects>
             <point key="canvasLocation" x="801" y="558"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--title-->
         <scene sceneID="Hil-I3-TT2">
             <objects>
                 <navigationController id="uMg-Nu-Gpu" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" selectedImage="bell" catalog="system" id="bsv-ja-5gL"/>
+                    <tabBarItem key="tabBarItem" title="title" selectedImage="bell" catalog="system" id="bsv-ja-5gL"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="QP8-g6-al4">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -178,11 +178,11 @@
             </objects>
             <point key="canvasLocation" x="7" y="558"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--title-->
         <scene sceneID="Knq-9U-HM5">
             <objects>
                 <navigationController id="jUz-QD-o8K" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" selectedImage="globe" catalog="system" id="SUS-wQ-sXz"/>
+                    <tabBarItem key="tabBarItem" title="title" selectedImage="globe" catalog="system" id="SUS-wQ-sXz"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="yeT-7r-kA8">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
